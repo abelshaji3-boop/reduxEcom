@@ -1,4 +1,39 @@
-# React + Vite
+# Redux E-commerce
+
+A small React + Redux Toolkit e-commerce demo app built with Vite.
+
+This project demonstrates a basic online store UI with:
+- product listing fetched from a sample API
+- product details page
+- cart management with quantity updates
+- wishlist support
+- React Router navigation
+- Redux Toolkit state management
+
+## Live Demo
+
+[https://your-github-username.github.io/redux-ecommerce/](https://abelshaji3-boop.github.io/reduxEcom/)
+
+> Replace the link above with your actual GitHub Pages or Vercel deployment URL.
+
+## Features
+
+- Product catalog display
+- Single product detail view
+- Add/remove items from cart
+- Increase/decrease item quantity
+- Wishlist add/remove
+- Responsive UI with Tailwind-style layout
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
