@@ -12,7 +12,7 @@ This project demonstrates a basic online store UI with:
 
 ## Live Demo
 
-[https://your-github-username.github.io/redux-ecommerce/](https://abelshaji3-boop.github.io/reduxEcom/)
+[Click here](https://abelshaji3-boop.github.io/reduxEcom/)
 
 > Replace the link above with your actual GitHub Pages or Vercel deployment URL.
 
