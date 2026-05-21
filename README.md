@@ -14,7 +14,6 @@ This project demonstrates a basic online store UI with:
 
 [Click here](https://abelshaji3-boop.github.io/reduxEcom/)
 
-> Replace the link above with your actual GitHub Pages or Vercel deployment URL.
 
 ## Features
 
